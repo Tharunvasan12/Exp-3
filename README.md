@@ -27,7 +27,7 @@ SEQUENCE DIAGRAM
 ![image](https://github.com/user-attachments/assets/2b8ad184-c3f0-45df-a656-775060cb65e5)
 PACKAGE DIAGRAM
 ![image](https://github.com/user-attachments/assets/9bc53aec-b019-4cb1-bb5a-10df21ab8a1e)
-# RESULT
+# RESULT:
 Thus the given six diagram of railway managment system
 
 
@@ -35,4 +35,3 @@ Thus the given six diagram of railway managment system
 
 
 
-# RESULT:
